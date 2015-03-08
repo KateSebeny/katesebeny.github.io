@@ -4,10 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-Interested in one of Kate Sebeny's projects?  Email [Kate Sebeny](mailto:riverhouse101@yahoo.com) to get access to a project.
+Interested in one of Kate Sebeny's current projects?  Email [Kate](mailto:riverhouse101@yahoo.com) to get access to a project.
 
-## Project Login Portals
+## Login to [Sweaters](http://www.sweaters.katesebeny.com)
 
-### [Sweaters](http://www.sweaters.katesebeny.com)
-
-### [House of Correction](http://www.book2.katesebeny.com)
+## Login to [House of Correction](http://www.book2.katesebeny.com)
