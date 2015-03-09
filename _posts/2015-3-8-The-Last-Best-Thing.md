@@ -5,7 +5,9 @@ title: The Last Best Thing
 
 *The Last Best Thing*  by Kate Sebeny comes out April 11, 2015 from [Kellan Publishing](http://kellanpublishing.com/index.php/authors/kate-sebeny/)!
 
+<div style="text-align:center">
 ![The Last Best Thing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/TheLastBestThingFrontCover.jpg "The Last Best Thing")
+</div>
 
 "What started out 50 years ago as an annual party evolved into a yearly reunion and then a way of life. It’s sort of like a geriatric Big Chill."
 
