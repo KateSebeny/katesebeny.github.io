@@ -3,7 +3,7 @@ layout: post
 title: The Last Best Thing
 ---
 
-*The Last Best Thing*  by Kate Sebeny comes out April 11, 2015, from [Kellan Publishing](http://kellanpublishing.com/index.php/authors/kate-sebeny/)!
+*The Last Best Thing*  by Kate Sebeny comes out April 11, 2015, from [Kellan Publishing](http://kellanpublishing.com/index.php/authors/kate-sebeny/)!  A warm thank you to Robert Bodnar and [Deborah Hunegs](www.etsy.com/shop/SirGunnisonsFarm) for their help on the book cover and [Sharon Holland](http://sharonhollanddesigns.com/) for the author photo.
 
 {: .center}
 [![The Last Best Thing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/TheLastBestThingFrontCover.jpg "The Last Best Thing")](http://kellanpublishing.com/index.php/authors/kate-sebeny/)
