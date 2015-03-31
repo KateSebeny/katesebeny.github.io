@@ -16,6 +16,7 @@ Thank you for visiting my website. Your interest will be rewarded with a sneak p
 
 While you're here, please register to receive 20% off of the book's price when you checkout through Kellan Publication after April 11th. Registration will also allow you to take part in the celebration of my upcoming book debut by making you automatically eligible to win prizes of signed print copies, e-books and other book-related merchandise.
 
+**Complete the form to receive a 20% off coupon for the *The Last Best Thing* and enter your name for the free giveaways!**
 <form action="https://www.promo.katesebeny.com/register.php" method="post">
 <br />
 <label for="firstname">First name: </label><br />
