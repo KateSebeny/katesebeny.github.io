@@ -17,7 +17,7 @@ layout: null
         <link>{{ site.url }}{{ post.url }}</link>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       </item>
-	  {% unless post.draft %}
+	  {% endunless %}
     {% endfor %}
   </channel>
 </rss>
