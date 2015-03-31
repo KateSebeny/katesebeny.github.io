@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Last Best Thing Pre Launch Party
+title: Pre-Launch Party for The Last Best Thing
 draft: true
 ---
 
