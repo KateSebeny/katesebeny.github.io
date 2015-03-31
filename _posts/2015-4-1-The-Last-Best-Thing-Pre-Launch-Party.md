@@ -19,7 +19,6 @@ While you're here, please register to receive 20% off of the book's price when y
 **Complete the form to receive a 20% off coupon for the *The Last Best Thing* and enter your name for the free giveaways!**
 
 <form action="https://www.promo.katesebeny.com/register.php" method="post">
-<br />
 <label for="firstname">First name: </label><br />
 <input type="text" name="firstname"><br />
 
