@@ -4,7 +4,8 @@ title: Affiliates
 permalink: /affiliates/
 ---
 
-- [Dayton Leader](http://daytonleader.wix.com/daytonleader)
-
 {: .center}
 [![Kellan Publishing](https://kellanpublishing.3dcartstores.com/assets/images/affiliateBanners/affiliateBanner1.jpg "Kellan Publishing")](https://kellanpublishing.3dcartstores.com/?AffId=9)
+
+{: .center}
+[![Dayton Leader](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/DaytonLeader.png "Dayton Leader")](http://daytonleader.wix.com/daytonleader)
