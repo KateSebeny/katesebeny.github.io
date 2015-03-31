@@ -9,7 +9,7 @@ draft: true
 {: .center}
 [![The Last Best Thing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/TheLastBestThingFrontCover.jpg "The Last Best Thing")](http://kellanpublishing.com/index.php/authors/kate-sebeny/)
 
-Thank you for visiting my website. Your interest will be rewarded with a sneak peek at *The Last Best Thing*.  Click the download icon below to view a prologue of *The Last Best Thing*.
+Thank you for visiting my website. Your interest will be rewarded with a sneak peek at *The Last Best Thing*.  Click the download icon below to view the prologue of *The Last Best Thing*.
 
 {: .center}
 [![The Last Best Thing Prologue](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/pdf-icon.png "Download The Last Best Thing Prologue")](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/files/TheLastBestThing/The%20Last%20Best%20Thing%20-%20Prologue.pdf)
