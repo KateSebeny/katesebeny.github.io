@@ -7,7 +7,7 @@ draft: true
 *The Last Best Thing*, a novella by Kate Sebeny, comes out April 11, 2015, from [Kellan Publishing](http://kellanpublishing.com/index.php/authors/kate-sebeny?AffId=9)!  We are celebrating with a virtual pre-launch party from April 1st to the 11th.  
 
 {: .center}
-[![The Last Best Thing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/TheLastBestThingFrontCover.jpg "The Last Best Thing")](http://kellanpublishing.com/index.php/authors/kate-sebeny/)
+[![The Last Best Thing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/TheLastBestThingFrontCover.jpg "The Last Best Thing")](http://kellanpublishing.com/index.php/authors/kate-sebeny?AffId=9)
 
 Thank you for visiting my website. Your interest will be rewarded with a sneak peek at *The Last Best Thing*.  Click the download icon below to view the prologue of *The Last Best Thing*.
 
@@ -16,7 +16,18 @@ Thank you for visiting my website. Your interest will be rewarded with a sneak p
 
 While you're here, please register to receive 20% off of the book's price when you checkout through Kellan Publication after April 11th. Registration will also allow you to take part in the celebration of my upcoming book debut by making you automatically eligible to win prizes of signed print copies, e-books and other book-related merchandise.
 
-**TODO: REGISTRATION FORM HERE...**
+<form action="http://promo.katesebeny.com/register.php" method="post">
+<label for="firstname">First name: </label><br />
+<input type="text" name="firstname"><br />
+
+<label for="lastname">Last name: </label><br />
+<input type="text" name="lastname"><br />
+
+<label for="email">Email: </label><br />
+<input type="email" name="email"><br />
+
+<input type="submit" value="Submit">
+</form>
 
 I hope this story will enrich your life as much as the writing of it did mine. That is, after all, a writer's main goal: to be read so that she can impart to her readers what she's learned in the process of writing. You are the reason writers write.
 
