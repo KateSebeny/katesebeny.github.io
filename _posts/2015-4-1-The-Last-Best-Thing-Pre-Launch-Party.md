@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pre-Launch Party for The Last Best Thing
-draft: true
+draft: false
 ---
 
 *The Last Best Thing*, a novella by Kate Sebeny, comes out April 11, 2015, from [Kellan Publishing](http://kellanpublishing.com/index.php/authors/kate-sebeny/?AffId=9)!  We are celebrating with a virtual pre-launch party from April 1st to the 11th.
