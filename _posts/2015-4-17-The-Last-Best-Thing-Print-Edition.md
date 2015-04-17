@@ -14,7 +14,7 @@ Thank you for visiting my website. While you are here, checkout a sneak peek of 
 {: .center}
 [![The Last Best Thing Prologue](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/pdf-icon.png "Download The Last Best Thing Prologue")](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/files/TheLastBestThing/The%20Last%20Best%20Thing%20-%20Prologue.pdf)
 
-From April 23rd to the 30th you register to receive an early bird discount off of the book's price when you checkout through Kellan Publication. Registration will also allow you to take part in the celebration of my book debut by making you automatically eligible to win prizes of signed print copies, e-books and other book-related merchandise.
+From April 23rd to the 30th you can register to receive an early bird discount off of the book's price when you checkout through Kellan Publication. Registration will also allow you to take part in the celebration of my book debut by making you automatically eligible to win prizes of book-related merchandise.
 
 **Complete the form to receive a coupon code for *The Last Best Thing* and enter your name for free giveaways!**
 
