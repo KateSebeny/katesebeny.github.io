@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Purchasing The Last Best Thing
-draft: true
+draft: false
 ---
 
 In addition to [Kellan Publishing](http://kellanpublishing.com/index.php/authors/kate-sebeny/?AffId=9), *The Last Best Thing* is now available at [Amazon](http://www.amazon.com/dp/B00WQ4OT2S), [Barnes and Noble](http://www.barnesandnoble.com/w/the-last-best-thing-kate-sebeny/1121813215?ean=9781511681001), and [Kobo](https://store.kobobooks.com/en-US/ebook/the-last-best-thing). (Please note that purchasing the book through Kellan Publishing supports the author and publisher more than other venues.)
