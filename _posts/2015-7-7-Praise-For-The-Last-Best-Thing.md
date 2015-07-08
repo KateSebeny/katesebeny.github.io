@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Praise for The Last Best Thing
-draft: true
+draft: false
 ---
 {: .center}
 [![The Last Best Thing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/TheLastBestThingFrontCover.jpg "The Last Best Thing")](http://kellanpublishing.3dcartstores.com/The-Last-Best-Thing_p_34.html?AffId=9)
