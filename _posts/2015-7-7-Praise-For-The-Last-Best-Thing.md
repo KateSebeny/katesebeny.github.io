@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recent Reviews of The Last Best Thing
+title: Praise for The Last Best Thing
 draft: true
 ---
 {: .center}
