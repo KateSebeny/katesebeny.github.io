@@ -6,7 +6,7 @@ draft: true
 
 I was selected as the focus of [Kellan Publishing's Author Focus Week](http://www.kellanpublishing.com/wordpress/2015/07/28/focus-kate-sebeny-on-the-last-best-thing/)!
 
-Check out my [focus interview](http://www.kellanpublishing.com/wordpress/2015/07/27/focus-interview-with-kate-sebeny/) that discusses my latest novella titled "[The Last Best Thing](http://kellanpublishing.3dcartstores.com/The-Last-Best-Thing_p_34.html?AffId=9)". As a part of the Author Focus week you can even [read the first chapter](http://www.kellanpublishing.com/wordpress/2015/07/29/the-last-best-thing/) of The Last Best Thing.
+Check out my [focus interview](http://www.kellanpublishing.com/wordpress/2015/07/27/focus-interview-with-kate-sebeny/) that discusses my latest novella titled "[The Last Best Thing](http://kellanpublishing.3dcartstores.com/The-Last-Best-Thing_p_34.html?AffId=9)". As a part of the Author Focus week you can even [read the first chapter](http://www.kellanpublishing.com/wordpress/2015/07/29/the-last-best-thing/) of The Last Best Thing. Stay tuned at Kellan Publishing and make sure to [enter the raffle](http://kellanpublishing.com/index.php/raffles/) this week for a free copy of The Last Best Thing.
 
 Also coming up in August is another book signing at [Plain Talk Books](http://www.raccoonforks.com/plain-talk-books-coffee/) in Des Moines, Iowa's historic East Village district.  This is a "wine & sign" event with some jumping blues music.  Hope to see you there!
 
