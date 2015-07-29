@@ -20,7 +20,7 @@ Finally, I was recently feature on [Snowflakes in a Blizzard](https://snowflakes
 > Kate calls her latest novel "a sort of geriatric big chill."
 
 {: .center}
-[![The Last Best Thing Book Signing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/SnowflakesInABlizzard.png)](https://snowflakesarise.wordpress.com/2015/07/27/weather-report-july-27/)
+[![Snowflakes in a Blizzard](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/SnowflakesInABlizzard.png)](https://snowflakesarise.wordpress.com/2015/07/27/weather-report-july-27/)
 
 Remember that in addition to [Kellan Publishing](http://kellanpublishing.3dcartstores.com/The-Last-Best-Thing_p_34.html?AffId=9), *The Last Best Thing* is available at [Amazon](http://www.amazon.com/dp/B00WQ4OT2S), [Barnes and Noble](http://www.barnesandnoble.com/w/the-last-best-thing-kate-sebeny/1121813215?ean=9781511681001), and [Kobo](https://store.kobobooks.com/en-US/ebook/the-last-best-thing). Please note that purchasing the book through Kellan Publishing supports the author and publisher more than other venues.
 
