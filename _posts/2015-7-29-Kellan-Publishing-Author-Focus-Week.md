@@ -8,10 +8,10 @@ I was selected as the focus of [Kellan Publishing's Author Focus Week](http://ww
 
 Check out my [focus interview](http://www.kellanpublishing.com/wordpress/2015/07/27/focus-interview-with-kate-sebeny/) that discusses my latest novella titled "[The Last Best Thing](http://kellanpublishing.3dcartstores.com/The-Last-Best-Thing_p_34.html?AffId=9)". As a part of the Author Focus week you can even [read the first chapter](http://www.kellanpublishing.com/wordpress/2015/07/29/the-last-best-thing/) of The Last Best Thing.
 
-Also, coming up in August is another book signing at Plain Talk Books in Des Moines, Iowa's historic East Village district.  This is a "wine & sign" event with some jumping blues music.  Hope to see you there!
+Also coming up in August is another book signing at [Plain Talk Books](http://www.raccoonforks.com/plain-talk-books-coffee/) in Des Moines, Iowa's historic East Village district.  This is a "wine & sign" event with some jumping blues music.  Hope to see you there!
 
 {: .center}
-![The Last Best Thing Book Signing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/BookSigning2.png)
+[![The Last Best Thing Book Signing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/BookSigning2.png)](http://www.raccoonforks.com/plain-talk-books-coffee/)
 
 Finally, I was recently feature on [https://snowflakesarise.wordpress.com/2015/07/27/weather-report-july-27/), a site that claims to be "separating authors from the herd and giving them one-on-one time with readers".
 
@@ -20,7 +20,7 @@ Finally, I was recently feature on [https://snowflakesarise.wordpress.com/2015/0
 > Kate calls her latest novel "a sort of geriatric big chill."
 
 {: .center}
-![The Last Best Thing Book Signing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/SnowflakesInABlizzard.png)
+[![The Last Best Thing Book Signing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/SnowflakesInABlizzard.png)](https://snowflakesarise.wordpress.com/2015/07/27/weather-report-july-27/)
 
 Remember that in addition to [Kellan Publishing](http://kellanpublishing.3dcartstores.com/The-Last-Best-Thing_p_34.html?AffId=9), *The Last Best Thing* is available at [Amazon](http://www.amazon.com/dp/B00WQ4OT2S), [Barnes and Noble](http://www.barnesandnoble.com/w/the-last-best-thing-kate-sebeny/1121813215?ean=9781511681001), and [Kobo](https://store.kobobooks.com/en-US/ebook/the-last-best-thing). Please note that purchasing the book through Kellan Publishing supports the author and publisher more than other venues.
 
