@@ -13,7 +13,7 @@ Also coming up in August is another book signing at [Plain Talk Books](http://ww
 {: .center}
 [![The Last Best Thing Book Signing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/BookSigning2.png)](http://www.raccoonforks.com/plain-talk-books-coffee/)
 
-Finally, I was recently feature on [https://snowflakesarise.wordpress.com/2015/07/27/weather-report-july-27/), a site that claims to be "separating authors from the herd and giving them one-on-one time with readers".
+Finally, I was recently feature on [Snowflakes in a Blizzard](https://snowflakesarise.wordpress.com/2015/07/27/weather-report-july-27/), a site that claims to be "separating authors from the herd and giving them one-on-one time with readers".
 
 > Besides offering the first presidential primary of the election season, Iowa is also known for writing and writers, and Kate Sebeny is very much a part of that scene. She graduated from the University of Iowa’s writing program — considered one of the top five in the nation — and has since edited a weekly newspaper and a national magazine. At one point, she lived in a renovated former county jail in in Winterset, IA, the setting for Robert James Waller’s best-selling "The Bridges of Madison County." She has also taught writing at two Iowa colleges.
 > 
