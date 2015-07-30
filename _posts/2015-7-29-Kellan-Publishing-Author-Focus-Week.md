@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kellan Publishing Author Focus Week
-draft: true
+draft: false
 ---
 
 I was selected as the focus of [Kellan Publishing's Author Focus Week](http://www.kellanpublishing.com/wordpress/2015/07/28/focus-kate-sebeny-on-the-last-best-thing/)!
