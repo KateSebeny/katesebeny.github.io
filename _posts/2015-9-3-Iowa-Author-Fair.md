@@ -7,7 +7,7 @@ draft: false
 > Avid readers, here is a wonderful opportunity to meet emerging Iowa writers. Authors will be selling and signing books for attendees. Enjoy snacks, door prizes, and good conversation during the Central Library's first Iowa Author Fair!
 
 {: .center}
-[![Iowa Author Fair](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/CE-IOWA-AUTHORS-Sebeny.jpg)](http://dmpl.org/events/iowa-author-fair)
+[![Iowa Author Fair](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/CE-IOWA-AUTHORS-Sebeny.jpg)](http://dmpl.org/events/author-fair)
 
 In other news,  *The Last Best Thing* was featured on [CreativeLiteraryConsultants.com](http://www.creativeliteraryconsultants.com/featured-books/the-last-best-thing-by-kate-sebeny).
 
