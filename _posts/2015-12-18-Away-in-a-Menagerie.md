@@ -4,7 +4,7 @@ title: Away in a Menagerie
 draft: false
 ---
 
-## Away in a Menagerie - A short story by Kate Sebeny
+## A short story by Kate Sebeny
 
 There are few things as joy-inspiring as a youngster's excitement during the holidays, at least in the abstract. Though I usually take a "bah-humbug" approach to Christmas, last year was different because I had little ones—four of them.
 
