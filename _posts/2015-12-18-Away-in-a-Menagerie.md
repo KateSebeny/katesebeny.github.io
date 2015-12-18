@@ -10,13 +10,13 @@ There are few things as joy-inspiring as a youngster's excitement during the hol
 
 So it was with something like good old-fashioned Christmas spirit that I sprung for a tree and lugged the boxes marked "Xmas" down from the attic. The holiday paraphernalia was left over from my own childhood, so old the tinsel that was carefully recovered each year was real tin. The contents of the boxes reawakened fond memories as I started hanging these precious, delicate mementos.
 
-But my nostalgic reverie was interrupted when two of my “kids” – Moxie and Mitzi, Russian Blue kitten siblings – got so rambunctious chasing around in the branches that they actually toppled the tree. I jumped out of the way, but a box of bulbs didn't. To counteract the kittens' enthusiasm, I sunk an anchor bolt into the ceiling and strapped the tree to it for security.
+But my nostalgic reverie was interrupted when two of my "kids" – Moxie and Mitzi, Russian Blue kitten siblings – got so rambunctious chasing around in the branches that they actually toppled the tree. I jumped out of the way, but a box of bulbs didn't. To counteract the kittens' enthusiasm, I sunk an anchor bolt into the ceiling and strapped the tree to it for security.
 
 Once I was satisfied the tree could withstand the kittens' horseplay, I got back to decorating the lower boughs. Being a smart person who can anticipate the inevitable, I reinforced the flimsy hangers with pieces of baling wire. That would surely keep the keepsake ornaments firmly in place.
 
 Then my other two young ones—Dickens and Twain, a pair of Border Collie puppies—got into the act. While the kittens batted with abandon at the fragile glass balls, the puppies sniffed the shiny orbs warily, shying at their sway. Luckily, they were tuckered out from a recent romp in the snow and soon fell asleep. By the time the puppies stirred again, I'd made good progress on trimming the tree.
 
-It occurred to me to give the pups a treat by playing that novelty song where dogs bark out the tune to “Jingle Bells.” The effect could not have been more explosive if I'd fired off a large-caliber gun in the house. Before the end of the first chorus, a chain reaction of alarmed responses had spread throughout the pet population. A few more ornaments succumbed to the ensuing chaos.
+It occurred to me to give the pups a treat by playing that novelty song where dogs bark out the tune to "Jingle Bells." The effect could not have been more explosive if I'd fired off a large-caliber gun in the house. Before the end of the first chorus, a chain reaction of alarmed responses had spread throughout the pet population. A few more ornaments succumbed to the ensuing chaos.
 
 Once I killed the music, relative order again prevailed and I figured it was safe to resume tree trimming. I was well into the tinsel part of the program when I heard the first crunch.
 
@@ -33,3 +33,6 @@ Then there was Christmas morning. Coming downstairs, I saw that there had indeed
 Nestled in the wreckage, the four little culprits slept soundly and sweetly, dead to the world after their busy night.
 
 Angelic as they looked, I think we'll skip the tree thing this year.
+
+{: .center}
+![My Four Children](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/cats-dogs.png)
