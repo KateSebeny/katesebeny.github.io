@@ -34,6 +34,5 @@ Nestled in the wreckage, the four little culprits slept soundly and sweetly, dea
 
 Angelic as they looked, I think we'll skip the tree thing this year.
 
-<br />
 {: .center}
 ![My Four Children](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/cats-dogs.png)
