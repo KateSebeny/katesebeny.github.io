@@ -8,7 +8,7 @@ I'd like to share an excerpt from a recent project called *Rei(g)ning Cats and D
 
 As for *The Last Best Thing*, Kellan Publishing Reads is hosting an online discussion all this month for interested readers.
 
-> Join us in reading Kate Sebeny's literary fiction novella, "The Last Best Thing." Throughout the month we can chat about the book and then after the event, discuss it in more detail.
+> "Join us in reading Kate Sebeny's literary fiction novella, "The Last Best Thing." Throughout the month we can chat about the book and then after the event, discuss it in more detail."
 
 This event is open to everyone! RSVP any time this month [here](https://www.goodreads.com/event/show/981868-a-look-into-the-last-best-thing) to get involved.
 
