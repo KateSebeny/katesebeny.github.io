@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Online Book Club Discussion and Pet Medicine
+title: Pet Medicine and Online Book Club Discussions
 draft: false
 ---
 
-In unrelated news I'd like to share an excerpt from a recent project "Rei(g)ning Cats and Dogs".  You can read more at  [Bublish](https://www.bublish.com/bubble/stream/8757?share=email).
+I'd like to share an excerpt from a recent project called *Rei(g)ning Cats and Dogs*.  Head on over to   [Bublish](https://www.bublish.com/bubble/stream/8757?share=email) to read more!
 
-As for "The Last Best Thing", Kellan Publishing Reads is hosting an online discussion all this month .
+As for *The Last Best Thing*, Kellan Publishing Reads is hosting an online discussion all this month for interested readers.
 
 > Join us in reading Kate Sebeny's literary fiction novella, "The Last Best Thing." Throughout the month we can chat about the book and then after the event, discuss it in more detail.
 
