@@ -4,7 +4,10 @@ title: Pet Medicine and Online Book Club Discussions
 draft: false
 ---
 
-I'd like to share an excerpt from a recent project called *Rei(g)ning Cats and Dogs*.  Head on over to   [Bublish](https://www.bublish.com/bubble/stream/8757?share=email) to read more!
+I'd like to share an excerpt from a recent project called *Rei(g)ning Cats and Dogs*.  Head on over to Bublish for [part 1](https://www.bublish.com/bubble/stream/8757?share=email) and [part 2](https://bublish.com/bubble/stream/8771?share=email) to read more!
+
+{: .center}
+![Reigning Cats and Dogs Cover](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/Reigning_Cats_and_Dogs_Cover.png "Reigning Cats and Dogs")
 
 As for *The Last Best Thing*, Kellan Publishing Reads is hosting an online discussion all this month for interested readers.
 
