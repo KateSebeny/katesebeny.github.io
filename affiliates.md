@@ -5,7 +5,7 @@ permalink: /affiliates/
 ---
 
 {: .center}
-[![Kellan Publishing](https://kellanpublishing.3dcartstores.com/assets/images/affiliateBanners/affiliateBanner1.jpg "Kellan Publishing")](https://kellanpublishing.3dcartstores.com/?AffId=9)
+[![Kellan Publishing](https://kellanpublishing.3dcartstores.com/assets/images/affiliateBanners/affiliateBanner1.jpg "Kellan Publishing")](https://kellan-publishing.selz.com/?AffId=9)
 
 <br />
 
