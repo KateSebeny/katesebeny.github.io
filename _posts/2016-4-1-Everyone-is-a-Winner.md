@@ -19,5 +19,7 @@ The one-year anniversary of the publication of [The Last Best Thing](The Last Be
 <input type="submit" value="Submit"><br />
 </form>
 
+You can get in touch with me on my [Kellan author page](http://www.kellanpublishing.com/index.php/authors/authors-s-u/kate-sebeny/), [Instagram](https://www.instagram.com/katesebeny/), [LinkedIn](https://www.linkedin.com/in/kate-sebeny-aa771685), [Facebook](https://www.facebook.com/people/Kate-Sebeny/100008118195401) or [Twitter](https://twitter.com/KateSebeny).
+
 {: .center}
 [![The Last Best Thing](https://raw.githubusercontent.com/KateSebeny/katesebeny.github.io/master/images/TheLastBestThing/TheLastBestThingFrontCover.jpg "The Last Best Thing")](http://kellanpublishing.3dcartstores.com/The-Last-Best-Thing_p_34.html?AffId=9)
