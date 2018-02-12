@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book of the Month Sale
+title: Author Chat
 draft: false
 ---
 
